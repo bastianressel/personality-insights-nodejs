@@ -1,6 +1,6 @@
 ---
 applications:
-- name: personal-insights-br
+- name: personality-insights-br99
   command: npm start
   path: .
   memory: 256M
